@@ -1,0 +1,18 @@
+Jane,Of Mice and Men
+Michael,The Old Man and the Sea
+Samantha,For Whom the Bell Tolls
+David,A Farewell to Arms
+James,Crime and Punishment
+Mary,War and Peace
+Robert,Anna Karenina
+Linda,One Hundred Years of Solitude
+Tom,Love in the Time of Cholera
+Emily,To the Lighthouse
+William,Mrs. Dalloway
+Ashley,The Idiot
+Charles,The Brothers Karamazov
+Nicole,The Portrait of a Lady
+Amanda,Washington Square
+Christopher,The Turn of the Screw
+Kiro,The Lord of the Rings
+TestReader,The Great Gatsby

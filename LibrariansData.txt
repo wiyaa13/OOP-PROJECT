@@ -1,0 +1,6 @@
+admin,1,TestLibrarian,TestLibrarian,TestLibrarian,1584473657,TestLibrarian
+edwardobramblett123,password1,Edwardo,Bramblett,795 West Virginia Avenue,4473657158,EdwardoBramblett186@gmail.com
+cherylmartin123,password2,Cheryl,Martin,4533 Peck Street,5374780091,CherylMartin231@hotmail.com
+marcussmith123,password3,Marcus,Smith,3299 Grove Street,2144987720,MarcusSmith357@gmail.com
+marinavaldez123,password4,Marina,Valdez,4317 Fulton Street,3053329185,MarinaValdez044@hotmail.com
+isaacjohnson123,password5,Isaac,Johnson,2304 Clark Street,6607586712,IsaacJohnson811@gmail.com
